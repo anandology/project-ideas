@@ -15,6 +15,7 @@ A minimalist wiki sofware based on Markdown that is simple to install and manage
 - Size of a typical page, including all loaded scripts and images, should be less than 100KB
 - Mutli-tenant
 - Stores the pages in a sqlite database, with optional support for Postgres
+- Pluggable storage backend
 
 # Possible Technologies
 
